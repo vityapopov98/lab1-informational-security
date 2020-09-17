@@ -1,0 +1,15 @@
+#messageOutput{
+    background-color: #ffffff;
+    border: 1px #cccccc solid;
+    border-radius: 4px;
+    margin-bottom: 2rem;
+    padding: 1.2rem;
+    /* box-shadow: 5px 5px 20px #cccccc; */
+}
+.testButton{
+    background-color: #fafafa;
+    border-radius: 20px;
+    border: none;
+    padding: .5rem 1.2rem ;
+    margin: .5rem;
+}
